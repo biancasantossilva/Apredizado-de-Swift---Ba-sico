@@ -1,12 +1,6 @@
-    //
-    //  main.swift
-    //  Apredizado de Swift - Básico
-    //
-    //  Created by Bianca Santos on 20/05/24.
-    //
+import Foundation
 
-    import Foundation
-
+print("Hello, World!")
 print("1. Operadores de Atribuição:")
 var x = 5
 var y = 10
